@@ -6,3 +6,12 @@ img {
   font-family: fantasy;
   font-size: 20pt;
 }
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
